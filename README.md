@@ -53,6 +53,7 @@ open_to:
 | [NullShare](https://github.com/MOUKA-513/NullShare) | 📱 **Offline File Sharing**: Transfer files from PC to phone instantly via QR code over local WiFi. Built with Python. | Creator |
 | [Awesome Silent Security](https://github.com/MOUKA-513/awesome-silent-security) | 🗺️ **Awesome Silent Security (Noise‑Free)**: Silent security is the art of operating below the radar. Whether you're a red teamer conducting a covert engagement, a purple teamer emulating a sophisticated adversary, or a defender trying to understand how the quietest threats evade your tools – this list is for you. | Creator |
 | [90DaysOfCyberSecurity-Interactive](https://github.com/MOUKA-513/90DaysOfCyberSecurity-Interactive) | 🚀 **95-Day Cyber Roadmap**: An interactive web app for a structured cybersecurity learning plan, featuring free resources on networking, Linux, Python, and pentesting. | Creator |
+| [GitDash](https://github.com/MOUKA-513/GitDash) | A lightweight Python tool that analyzes Git repositories and generates an interactive dashboard with repository health metrics, contributor analytics, file churn insights, coding heatmaps, bus factor analysis, and an AI-powered project roast. | Creator |
 
 
 ---
