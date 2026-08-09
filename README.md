@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+MOUKA;Cybersecurity+Student;Ethical+Hacker+%7C+Penetration+Tester;Open+Source+Learner+%7C+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+MOUKA-513;Cybersecurity+Student;Pentester+%7C+Defender;Ethical+Hacker" alt="Typing SVG" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 ### 🚀 About Me
 
 ```yaml
-name : Adnane Moussoaui
+name : Adnane Moussaoui
 aka  : MOUKA-513
 role : Cybersecurity Student
 location: Morocco
@@ -46,18 +46,20 @@ open_to:
   - CTF teammates
   - Networking with industry professionals
 ```
-  ## 🏆 Featured Projects
+
+## 🏆 Featured Projects
 
 | Project | Description | Context |
 |:--------|:------------|:--------|
 | [NullShare](https://github.com/MOUKA-513/NullShare) | 📱 **Offline File Sharing**: Transfer files from PC to phone instantly via QR code over local WiFi. Built with Python. | Creator |
-| [Awesome Silent Security](https://github.com/MOUKA-513/awesome-silent-security) | 🗺️ **Awesome Silent Security (Noise‑Free)**: Silent security is the art of operating below the radar. Whether you're a red teamer conducting a covert engagement, a purple teamer emulating a sophisticated adversary, or a defender trying to understand how the quietest threats evade your tools – this list is for you. | Creator |
-| [90DaysOfCyberSecurity-Interactive](https://github.com/MOUKA-513/90DaysOfCyberSecurity-Interactive) | 🚀 **95-Day Cyber Roadmap**: An interactive web app for a structured cybersecurity learning plan, featuring free resources on networking, Linux, Python, and pentesting. | Creator |
-| [GitDash](https://github.com/MOUKA-513/GitDash) | A lightweight Python tool that analyzes Git repositories and generates an interactive dashboard with repository health metrics, contributor analytics, file churn insights, coding heatmaps, bus factor analysis, and an AI-powered project roast. | Creator |
-
+| [Awesome Silent Security](https://github.com/MOUKA-513/awesome-silent-security) | 🗺️ **Awesome Silent Security (Noise‑Free)**: Silent security is the art of operating below the radar. | Creator |
+| [90DaysOfCyberSecurity-Interactive](https://github.com/MOUKA-513/90DaysOfCyberSecurity-Interactive) | 🚀 **95-Day Cyber Roadmap**: An interactive web app for a structured cybersecurity learning journey. | Creator |
+| [GitDash](https://github.com/MOUKA-513/GitDash) | 📊 **Git Repository Analyzer**: Lightweight Python tool for repository analysis with interactive dashboards. | Creator |
 
 ---
+
 ## 💻 Tech Stack
+
 <div align="center">
 
 **Languages & Scripting** 
@@ -108,9 +110,8 @@ As a cybersecurity student, I'm actively looking for:
 *Let's grow together in the world of ethical hacking!*
 
 [![MOUKA-513's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOUKA-513&show_icons=true&theme=radical)](https://github.com/MOUKA-513)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MOUKA-513&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOUKA-513&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 </div>
-
